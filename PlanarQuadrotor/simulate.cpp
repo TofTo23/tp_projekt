@@ -1,3 +1,4 @@
+//Butko 198090; Toczyński 197986
 /**
  * SDL window creation adapted from https://github.com/isJuhn/DoublePendulum
 */
